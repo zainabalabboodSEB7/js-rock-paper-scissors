@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✊✋✌️ Rock, Paper, Scissors
 
 ![Game Screenshot](./assets/screenshot.png)
@@ -37,3 +38,6 @@ The game compares the choices and shows who wins. First to 5 points wins the mat
 - Add sound effects
 - Add animations
 - Make it work on phones
+=======
+
+>>>>>>> 7ebc36d2714d2afbd06dda71e8ed65cc494d545d
